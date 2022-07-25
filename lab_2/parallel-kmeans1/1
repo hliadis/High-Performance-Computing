@@ -1,0 +1,1 @@
+/proc/sys/kernel/perf_event_paranoid

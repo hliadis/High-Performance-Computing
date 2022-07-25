@@ -1,0 +1,75 @@
+----parallel-kmeans1/test/time_seq_main_4----
+AvgRT: 1.604840
+StdDev: 0.060051
+----parallel-kmeans1/test/time_seq_main_8----
+AvgRT: 0.901800
+StdDev: 0.007481
+----parallel-kmeans1/test/time_seq_main_16----
+AvgRT: 0.454410
+StdDev: 0.007077
+----parallel-kmeans1/test/time_seq_main_32----
+AvgRT: 0.422840
+StdDev: 0.016466
+----parallel-kmeans1/test/time_seq_main_64----
+AvgRT: 0.860540
+StdDev: 0.088683
+----parallel-kmeans2/test/time_seq_main_4----
+AvgRT: 1.558210
+StdDev: 0.020258
+----parallel-kmeans2/test/time_seq_main_8----
+AvgRT: 0.841210
+StdDev: 0.010191
+----parallel-kmeans2/test/time_seq_main_16----
+AvgRT: 0.437000
+StdDev: 0.004146
+----parallel-kmeans2/test/time_seq_main_32----
+AvgRT: 0.384940
+StdDev: 0.010262
+----parallel-kmeans2/test/time_seq_main_64----
+AvgRT: 0.802040
+StdDev: 0.075034
+----parallel-kmeans3/test/time_seq_main_4----
+AvgRT: 1.554210
+StdDev: 0.018071
+----parallel-kmeans3/test/time_seq_main_8----
+AvgRT: 0.827610
+StdDev: 0.008327
+----parallel-kmeans3/test/time_seq_main_16----
+AvgRT: 0.435200
+StdDev: 0.004266
+----parallel-kmeans3/test/time_seq_main_32----
+AvgRT: 0.366930
+StdDev: 0.012610
+----parallel-kmeans3/test/time_seq_main_64----
+AvgRT: 0.363270
+StdDev: 0.032991
+----parallel-kmeans-test/test/time_seq_main_4----
+AvgRT: 1.589640
+StdDev: 0.031866
+----parallel-kmeans-test/test/time_seq_main_8----
+AvgRT: 0.845290
+StdDev: 0.015314
+----parallel-kmeans-test/test/time_seq_main_16----
+AvgRT: 0.453390
+StdDev: 0.015236
+----parallel-kmeans-test/test/time_seq_main_32----
+AvgRT: 0.379030
+StdDev: 0.006382
+----parallel-kmeans-test/test/time_seq_main_64----
+AvgRT: 0.335900
+StdDev: 0.038090
+----seq_kmeans/test/time_seq_main_4----
+AvgRT: 5.556500
+StdDev: 0.096996
+----seq_kmeans/test/time_seq_main_8----
+AvgRT: 5.628810
+StdDev: 0.155992
+----seq_kmeans/test/time_seq_main_16----
+AvgRT: 5.544610
+StdDev: 0.110552
+----seq_kmeans/test/time_seq_main_32----
+AvgRT: 5.505880
+StdDev: 0.049749
+----seq_kmeans/test/time_seq_main_64----
+AvgRT: 5.460870
+StdDev: 0.022931
